@@ -1,0 +1,48 @@
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  input[type="text"], button {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .book-details {
+    margin-top: 20px;
+  }
+  
+  .book-details h2 {
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  
+  .book-details ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .book-details ul li {
+    margin-bottom: 5px;
+  }
+  
+  .book-details ul li strong {
+    color: #333;
+  }
+  

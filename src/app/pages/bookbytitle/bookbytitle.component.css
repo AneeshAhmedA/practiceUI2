@@ -1,0 +1,26 @@
+/* book-details.component.css */
+
+.book-details-container {
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .book-details-title {
+    color: #333;
+  }
+  
+  .book-details-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .book-details-list li {
+    margin-bottom: 10px;
+  }
+  
+  .book-details-list li strong {
+    color: #007bff;
+  }
+  
